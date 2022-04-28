@@ -45,3 +45,4 @@ for more information.
 - [Partitioning](extensions/partitioning.md)
 - [Sampling](extensions/sampledrate.md)
 - [Sequence](extensions/sequence.md)
+- [HMAC](extensions/datahmac.md)
